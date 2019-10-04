@@ -6,5 +6,7 @@
 
 * старт сервера: rails server --port [port]
 
+* тесты: rails spec
+
 
 
