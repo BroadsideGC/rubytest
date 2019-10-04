@@ -1,0 +1,82 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/broadsidegc/RubymineProjects/testruby/app/controllers/visited_links_controller.rb": [
+        null,
+        null,
+        1,
+        1,
+        15,
+        12,
+        9,
+        9,
+        null,
+        null,
+        null,
+        null,
+        6,
+        null,
+        null,
+        1,
+        8,
+        null,
+        4,
+        null,
+        4,
+        null,
+        4,
+        null,
+        null,
+        1,
+        9,
+        9,
+        9,
+        9,
+        null,
+        null,
+        null,
+        1,
+        4,
+        4,
+        10,
+        null,
+        10,
+        null,
+        null,
+        10,
+        null,
+        null,
+        null
+      ],
+      "/home/broadsidegc/RubymineProjects/testruby/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null
+      ],
+      "/home/broadsidegc/RubymineProjects/testruby/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/home/broadsidegc/RubymineProjects/testruby/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/broadsidegc/RubymineProjects/testruby/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/broadsidegc/RubymineProjects/testruby/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1570144154
+  }
+}
